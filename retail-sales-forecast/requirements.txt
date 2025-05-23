@@ -1,0 +1,6 @@
+# Add your Python dependencies here
+pandas
+sqlalchemy
+pymysql
+prophet
+pytest
